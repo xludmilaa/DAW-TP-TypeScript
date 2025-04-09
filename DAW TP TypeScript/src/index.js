@@ -1,3 +1,5 @@
+// Integrante: Armua Ludmila
+// Tp 1 Desarrollo de Aplicaciones web
 // Crear las clases “Perro”, “Gato”, y “Vaca” que implementen la interfaz “Animal”
 
 var Perro = /** @class */ (function () {
