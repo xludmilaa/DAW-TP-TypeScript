@@ -1,3 +1,6 @@
+// Integrante: Armua Ludmila
+// Tp 1 Desarrollo de Aplicaciones web
+
 
 // Crear una interfaz “Animal” que posea el atributo “nombre”, 
 // así como también la definición de un método “gritar” que retorne un string
